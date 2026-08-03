@@ -27,7 +27,7 @@ export function Footer() {
               across industries.
             </p>
             <a
-              href="mailto:hello@agentickemployees.com"
+              href="mailto:agentickemployees01@gmail.com"
               className="mt-4 inline-flex items-center gap-2 text-sm text-foreground transition-colors hover:text-accent"
             >
               <Mail className="size-4" />

@@ -126,14 +126,14 @@ const faqs = [
   },
   {
     q: "Which industries do you work with?",
-    a: "We specialise in D2C brands, hotels and hospitality groups, and service businesses such as clinics, agencies and legal or financial firms.",
+    a: "We specialise in Real estate, D2C brands, Hospitality groups, and Professional services such as Financial Firms.",
   },
   {
     q: "How does it actually work?",
     a: "We map your process, connect your existing tools, and deploy AI agents that handle defined tasks with clear guardrails and human escalation whenever confidence is low.",
   },
   {
-    q: "Do we need a technical team?",
+    q: "Do you need a technical team?",
     a: "No. We handle the build, hosting and integrations. Your team only needs to review outputs during rollout and tell us where the edge cases are.",
   },
   {
