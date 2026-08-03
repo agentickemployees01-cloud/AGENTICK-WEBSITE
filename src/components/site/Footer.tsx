@@ -31,7 +31,7 @@ export function Footer() {
               className="mt-4 inline-flex items-center gap-2 text-sm text-foreground transition-colors hover:text-accent"
             >
               <Mail className="size-4" />
-              hello@agentickemployees.com
+              agentickemployees01@gmail.com
             </a>
           </div>
 
